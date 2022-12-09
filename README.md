@@ -1,4 +1,4 @@
-<img align = right height = 120 width = 120 src= https://app.hamoye.com/course-details/146a63a475c1f000>
+<img align = right height = 120 width = 120 src= https://hamoye.com/images/clips/02-mobile.jpg>
 
      
 # Hamoye_internship_22_stage_c
